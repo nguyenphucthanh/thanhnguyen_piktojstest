@@ -1,3 +1,8 @@
+# Developer's note
+- Please checkout `src/editor.ts`.
+
+# Original note
+
 ## Instructions
 
 You are required to implement a single page application that allows user to add text and image into canvas.
@@ -26,7 +31,7 @@ Here are the expected requirements:
 
 - App logic and data flow are written in a functional and reactive programming concept
 
-    Separate the logic between application data state and template view / user interactions (unidirectional data flow). 
+    Separate the logic between application data state and template view / user interactions (unidirectional data flow).
 
 - Use libraries as less as possible,
 
